@@ -1,4 +1,4 @@
-# AI-JARVIS import speech_recognition as sr
+# AI-JARVIS import speech_recognition as sir
 import pyttsx3
 import webbrowser
 import datetime
